@@ -21,33 +21,15 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/Saakhavat-Prime">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saakhavat-Prime&repo=intro&theme=tokyonight" />
-</a>
-
-</p>
-
-👉 Add more repos like this later (portfolio, todo, weather)
-
----
-
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saakhavat-Prime&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saakhavat-Prime&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saakhavat-Prime&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 ---
 
