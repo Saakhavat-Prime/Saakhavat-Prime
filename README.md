@@ -11,14 +11,6 @@
 
 ---
 
-## 🧠 About Me
-- 🌱 Learning **React, Tailwind, Node.js**
-- 💻 Building modern UI/UX projects
-- 🎯 Goal: Become Full Stack Developer
-- ⚡ Love turning ideas into real apps
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -79,14 +71,6 @@
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-</p>
-
----
-
-## ⚡ Developer Quote
-
-<p align="center">
-💡 "Code is like magic — but you control it" 🚀
 </p>
 
 ---
