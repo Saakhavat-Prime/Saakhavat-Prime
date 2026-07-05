@@ -35,10 +35,11 @@
 
 ## 📈 Contribution Graph (FIRE LOOK 🔥)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saakhavat-Prime&theme=react-dark&hide_border=true" />
-</p>
+<div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saakhavat-Prime&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
 ---
 
 ## 🌐 Connect With Me
