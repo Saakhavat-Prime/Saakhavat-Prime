@@ -61,5 +61,5 @@
 
 <!-- FOOTER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00F5FF&height=120&section=footer"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
