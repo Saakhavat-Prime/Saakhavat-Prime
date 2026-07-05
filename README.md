@@ -1,6 +1,7 @@
 <!-- HEADER ANIMATION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0077FF&height=200&section=header&text=SAKHAVAT%20PRIME&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0077FF&height=200&section=header&text=SAKHAVAT%20PRIME&fontSize=40&fontColor=ffffff&animation=fadeIn" /> -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=Saakhavat-Prime%&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <h2 align="center">🚀 Frontend Developer | React Enthusiast | UI Builder</h2>
